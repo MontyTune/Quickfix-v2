@@ -1,0 +1,3 @@
+MySQLStore.lo: MySQLStore.cpp ../../config.h
+
+../../config.h:

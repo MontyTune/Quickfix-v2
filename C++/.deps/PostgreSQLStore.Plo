@@ -1,0 +1,3 @@
+PostgreSQLStore.lo: PostgreSQLStore.cpp ../../config.h
+
+../../config.h:

@@ -1,0 +1,3 @@
+PostgreSQLLog.lo: PostgreSQLLog.cpp ../../config.h
+
+../../config.h:
